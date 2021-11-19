@@ -4,4 +4,8 @@ Hola, Soy Arthour y estoy practicando GIT.
 
 Hola, estoy emocionado.
 
-Tengo 19 años y estudio ingeniería.
+Bueno, este es un cambio en el archivo y enviado a master.
+
+Una descripción simple, para una nueva actualización.
+
+Solo hice esto para practicar.
