@@ -3,3 +3,5 @@ Esta es una practica de git.
 Hola, Soy Arthour y estoy practicando GIT.
 
 Hola, estoy emocionado.
+
+Tengo 19 años y estudio ingeniería.
